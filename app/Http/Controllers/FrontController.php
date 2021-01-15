@@ -71,7 +71,7 @@ class FrontController extends Controller
     }
     public function profile() {
 
-        return view('items.profile');
+        return view('profile.profile');
     }
 
 }
